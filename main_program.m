@@ -5,7 +5,7 @@
 %
 % Year: 	2022
 % MATLAB: 	R2021a
-% Authors:	Alexa Grimm (AG) (group of Dr. Matteo Gazzani) 
+% Authors:	Alexa Grimm and Kian Karimi (group of Dr. Matteo Gazzani) 
 % 
 %
 % Purpose: 
